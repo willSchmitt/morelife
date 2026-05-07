@@ -17,7 +17,7 @@ export default function FooterPage() {
       <div className="w-full mt-8 rounded-2xl border border-white/10 bg-white/5 p-5 backdrop-blur-xl shadow-2xl">
 
         <p className="text-sm text-white/70 text-center font-medium">
-          Somente para maiores de 18 anos.
+          Voltado para jovens e adultos acima de 18 anos
         </p>
 
         <a
